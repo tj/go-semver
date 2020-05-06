@@ -4,7 +4,7 @@ Semver stuff I've used in a few projects such as [Go Binaries](https://gobinarie
 
 ---
 
-[![GoDoc](https://pkg.go.dev/github.com/tj/go-semver?status.svg)](https://pkg.go.dev/github.com/tj/go-semver)
+[![GoDoc](https://godoc.org/github.com/tj/go-semver?status.svg)](https://godoc.org/github.com/tj/go-semver)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
 ![](https://github.com/tj/go-semver/workflows/Tests/badge.svg)
